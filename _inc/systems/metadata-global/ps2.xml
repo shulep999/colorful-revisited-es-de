@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>CD-ROM — это дополнение к PC Engine, выпущенное в Японии 4 декабря 1988 года. Это дополнение позволяет базовым версиям консоли воспроизводить игры PC Engine в формате CD-ROM в дополнение к стандартным играм. HuCards. Это сделало PC Engine первой игровой консолью, использующей CD-ROM в качестве носителя информации. Дополнение состояло из двух устройств — самого проигрывателя компакт-дисков и интерфейсного блока, который соединяет проигрыватель компакт-дисков с консолью и обеспечивает унифицированное питание и выход для обоих. Позже он был выпущен как TurboGrafx-CD в США в ноябре 1989 года с переработанным интерфейсным блоком, чтобы соответствовать другой форме консоли TurboGrafx-16. Стартовая цена TurboGrafx-CD составляла 399,99 долларов, и в него не входили никакие игры. Fighting Street и Monster Lair были названиями запуска TurboGrafx-CD; вскоре последовали Ys Book I и II.</systemDescription>
-      <systemManufacturer>NEC</systemManufacturer>
-      <systemReleaseYear>1988</systemReleaseYear>
-      <systemReleaseDate>04.12.1988г.</systemReleaseDate>
-      <systemReleaseDateFormated>04 декабря 1988г.</systemReleaseDateFormated>
+      <systemDescription>PlayStation 2 — вторая игровая приставка, выпущенная компанией Sony, наследница PlayStation и предшественница PlayStation 3. О начале разработки было объявлено в марте 1999 г., продажа консоли в Японии началась 4 марта 2000 г., в Северной Америке — 26 октября 2000 г., в Европе — 24 ноября 2000 года, в России — 7 ноября 2002 года. Игровая приставка стала наиболее быстро продаваемой и самой популярной игровой консолью в истории. На третий квартал 2011 года в мире продано почти 155 миллионов экземпляров PS2. 28 декабря 2012 года было прекращено производство в Японии, а 4 января 2013 года Sony подтвердила, что производство PS2 прекращено по всему миру. Тем самым, PS2 выпускалась почти 13 лет, это один из самых длинных жизненных циклов в истории игровой индустрии. В 2018 году японское подразделение Sony заявило, что PlayStation 2 больше не будут ремонтироваться в связи с уменьшением запаса необходимых деталей.</systemDescription>
+      <systemManufacturer>Sony</systemManufacturer>
+      <systemReleaseYear>2000</systemReleaseYear>
+      <systemReleaseDate>04.03.2000г.</systemReleaseDate>
+      <systemReleaseDateFormated>4 марта 2000г.</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>2E69BE</systemColor>
       <systemColorPalette1>33438A</systemColorPalette1>
