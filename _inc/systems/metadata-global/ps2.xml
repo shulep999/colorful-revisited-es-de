@@ -1,12 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
-
-Announced in 1999, the PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide. Over 3,800 game titles have been released for the PS2, with over 1.5 billion copies sold. Sony later manufactured several smaller, lighter revisions of the console known as Slimline models in 2004.</systemDescription>
-      <systemManufacturer>Sony</systemManufacturer>
-      <systemReleaseYear>2000</systemReleaseYear>
-      <systemReleaseDate>2000-03-04</systemReleaseDate>
-      <systemReleaseDateFormated>March 4, 2000</systemReleaseDateFormated>
+      <systemDescription>CD-ROM — это дополнение к PC Engine, выпущенное в Японии 4 декабря 1988 года. Это дополнение позволяет базовым версиям консоли воспроизводить игры PC Engine в формате CD-ROM в дополнение к стандартным играм. HuCards. Это сделало PC Engine первой игровой консолью, использующей CD-ROM в качестве носителя информации. Дополнение состояло из двух устройств — самого проигрывателя компакт-дисков и интерфейсного блока, который соединяет проигрыватель компакт-дисков с консолью и обеспечивает унифицированное питание и выход для обоих. Позже он был выпущен как TurboGrafx-CD в США в ноябре 1989 года с переработанным интерфейсным блоком, чтобы соответствовать другой форме консоли TurboGrafx-16. Стартовая цена TurboGrafx-CD составляла 399,99 долларов, и в него не входили никакие игры. Fighting Street и Monster Lair были названиями запуска TurboGrafx-CD; вскоре последовали Ys Book I и II.</systemDescription>
+      <systemManufacturer>NEC</systemManufacturer>
+      <systemReleaseYear>1988</systemReleaseYear>
+      <systemReleaseDate>04.12.1988г.</systemReleaseDate>
+      <systemReleaseDateFormated>04 декабря 1988г.</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>2E69BE</systemColor>
       <systemColorPalette1>33438A</systemColorPalette1>
